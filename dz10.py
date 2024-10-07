@@ -41,4 +41,3 @@ task_listBox = tk.Listbox(root, height=10, width=50, bg="LightPink1")
 task_listBox.pack(pady=10)
 
 root.mainloop()
-
